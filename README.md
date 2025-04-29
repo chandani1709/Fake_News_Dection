@@ -1,7 +1,7 @@
 # Fake News Detection
 # Description
 Detect fake news articles using machine learning and NLP techniques.
-# Featurs
+# Featuers
 - Classifies news as real or fake
 - Uses TF-IDF and Logistic Regression
 - Includes a web interface with Streamlit
