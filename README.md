@@ -10,3 +10,4 @@ Detect fake news articles using machine learning and NLP techniques.
 - Scikit-learn
 - Pandas
 - Streamlit
+here is the link :  https://chandani1709.github.io/Fake_News_Dection/
