@@ -2,9 +2,9 @@
 # Description
 Detect fake news articles using machine learning and NLP techniques.
 # Featurs
-Classifies news as real or fake
-Uses TF-IDF and Logistic Regression
-Includes a web interface with Streamlit
+- Classifies news as real or fake
+- Uses TF-IDF and Logistic Regression
+- Includes a web interface with Streamlit
 # Technologies
 - Python
 - Scikit-learn
