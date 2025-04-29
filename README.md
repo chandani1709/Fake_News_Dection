@@ -1,4 +1,5 @@
 # Fake News Detection
+# Description
 Detect fake news articles using machine learning and NLP techniques.
 # Technologies
 - Python
